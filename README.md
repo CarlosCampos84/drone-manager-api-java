@@ -167,7 +167,7 @@ A documentação completa da API está disponível através do Swagger UI:
 
 ## 🎥 Demonstrações
 
-Link do video: 
+Link do video: https://youtu.be/l2A_7gutvWo
 
 ## 🔒 Segurança
 
